@@ -13,7 +13,9 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
-  <span class="post-meta small">{{ minutes }} minute read</span>
+  {% if site.minutes_read %}
+  <span class="post-meta small">{{ minutes | round }} minute read</span>
+  {% endif %}
 </div>
 
 <article class="post-content">
