@@ -6,22 +6,22 @@ summary:    I wish life was simpler... but then again, I don't think that that w
 categories: personal
 ---
 
-I came to meet someone else,
-I was a man on a mission,
-I knew what I wanted,
+I came to meet someone else,  
+I was a man on a mission,  
+I knew what I wanted,  
 Half insane, half god.
 
-I came to meet someone else,
-But she wasn't there,
-I didn't have what I wanted,
+I came to meet someone else,  
+But she wasn't there,  
+I didn't have what I wanted,  
 Half confused, half alone.
 
-I came to meet someone else,
-But there she was,
-Doing, saying what she wanted,
+I came to meet someone else,  
+But there she was,  
+Doing, saying what she wanted,  
 Part sunshine, part orange juice.
 
-I came to meet someone else,
-But I'm talking to her now,
-She might be what I wanted,
+I came to meet someone else,  
+But I'm talking to her now,  
+She might be what I wanted,  
 The part I never found.
