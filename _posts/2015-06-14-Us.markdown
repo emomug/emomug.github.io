@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Us
-date:       2015-06-314 23:16:00
+date:       2015-06-14 23:16:00
 summary:    I would have wanted to say this in words... but my awkwardness would come in the way.
 categories: personal
 ---
